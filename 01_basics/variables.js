@@ -1,9 +1,13 @@
-const accountId = 14421
-let accountEmail = "suresh12@gmail.com"
-var accountPassword ="12345"
-accountCity = "Dehradun"
-accountEmail ="hc@gmail.com"
-accountPassword="2222"
-accountCity = "Bangluru"
+const accountID = 144553;
+let accountEmail =  "rawatbhavesh111@gmail.accountEmail";
+var accountPassword = "1245";
+accountCity = "Jaipur";
+let accountState;
 
-console.table([accountId,accountEmail,accountPassword,accountCity])
+// accountID = 2 // not allowed 
+
+accountEmail = "123@gmail.com"
+accountPassword = "2241"
+accountCity = "Dehradun"
+
+console.table([accountID, accountEmail, accountCity, accountPassword, accountState])
